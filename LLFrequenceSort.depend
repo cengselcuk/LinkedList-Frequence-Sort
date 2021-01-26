@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611685322 source:c:\users\selcuk\desktop\c pr\llfrequencesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
